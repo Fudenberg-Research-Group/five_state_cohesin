@@ -13,7 +13,7 @@ Code in this repository relies on:
 - [SymPy](https://www.sympy.org/en/index.html) for fitting ODE models
 
 To simulate genome conformations, we couple a 1D lattice model describing cohesin dynamics with a 3D polymer model:
-![Model](https://github.com/Fudenberg-Research-Group/five_state_cohesin/tree/figs/figures/five-state-polymer.png)
+![Model](./figures/five-state-polymer.png?raw=true))
 
 
 
