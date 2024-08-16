@@ -21,5 +21,5 @@ This movie illustrates a typical trajectory of a single extruder for this model,
 ![Video](./figures/anim_loop.mp4?raw=true)
 
 <video src='./figures/anim_loop.mp4?raw=True' width=180/>
-[![Watch the video]](https://raw.githubusercontent.com/Fudenberg-Research-Group/five_state_cohesin/main/figures/anim_loop.mp4)
+[![Watch the video]](https://raw.githubusercontent.com/Fudenberg-Research-Group/five_state_cohesin/figs/figures/anim_loop.mp4)
 
