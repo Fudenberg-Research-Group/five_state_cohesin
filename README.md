@@ -20,6 +20,6 @@ To simulate genome conformations, we couple a 1D lattice model describing cohesi
 This movie illustrates a typical trajectory of a single extruder for this model, sped up by a factor of 10 relative to real time. We additionally stretch the chromatin on either side of this extruder for visualization purposes.
 ![Video](./figures/anim_loop.mp4?raw=true)
 
-<video src='./figures/anim_loop.mp4?raw=True' width=180/>
-[![Watch the video]](https://raw.githubusercontent.com/Fudenberg-Research-Group/five_state_cohesin/figs/figures/anim_loop.mp4)
-
+[!Watch the video](
+https://github.com/user-attachments/assets/813d3af5-0da8-4f62-a6a1-e4bb61c72b22
+)
