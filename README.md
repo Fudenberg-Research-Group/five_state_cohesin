@@ -21,5 +21,10 @@ This movie illustrates a typical trajectory of a single extruder for this model,
 ![Video](./figures/anim_loop.mp4?raw=true)
 
 [!Watch the video](
-https://github.com/user-attachments/assets/813d3af5-0da8-4f62-a6a1-e4bb61c72b22
+https://github.com/user-attachments/assets/65a29f6a-0121-4df8-8bdd-8af74e4004c9
 )
+
+
+
+
+
