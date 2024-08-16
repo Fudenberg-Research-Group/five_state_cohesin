@@ -18,5 +18,6 @@ To simulate genome conformations, we couple a 1D lattice model describing cohesi
 
 
 This movie illustrates a typical trajectory of a single extruder for this model, sped up by a factor of 10 relative to real time. We additionally stretch the chromatin on either side of this extruder for visualization purposes.
+![Video](./figures/anim_loop.mp4?raw=true)
 
 <video src='./figures/anim_loop.mp4?raw=True' width=180/>
