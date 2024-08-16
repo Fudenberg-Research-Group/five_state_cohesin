@@ -12,9 +12,11 @@ Code in this repository relies on:
 - https://github.com/Fudenberg-Research-Group/discrete-time-extrusion for 1D lattice models of extrusion implemented in Python
 - [SymPy](https://www.sympy.org/en/index.html) for fitting ODE models
 
-To simulate genome conformations, we couple a 1D lattice model describing cohesin dynamics with a 3D polymer model:
-![Model](./figures/five-state-polymer.png?raw=true))
+To simulate genome conformations, we couple a 1D lattice model describing cohesin dynamics with a 3D polymer model describing the spatial position of chromatin:
+![Model](./figures/five-state-polymer.png?raw=true)
 
 
 
-![Movie]((https://github.com/Fudenberg-Research-Group/five_state_cohesin/tree/figs/figures/anim_loop.mp4)
+This movie illustrates a typical trajectory of a single extruder for this model, sped up by a factor of 10 relative to real time. We additionally stretch the chromatin on either side of this extruder for visualization purposes.
+
+<video src='./figures/anim_loop.mp4' width=180/>
