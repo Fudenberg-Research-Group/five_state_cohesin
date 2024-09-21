@@ -2,10 +2,7 @@
 
 This repository is associated with the manuscript "The physical chemistry of interphase loop extrusion" and houses notebooks demonstrating the lattice and polymer implementations of the five-state model of interphase cohesin.
 
-
-Preprint available here: ** link coming soon **
-
-
+Preprint available here: https://doi.org/10.1101/2024.08.23.609419
 
 Code in this repository relies on:
 - https://github.com/open2c/polychrom-hoomd/ for 3D polymer simulations implemented with [HooMD-Blue](https://github.com/glotzerlab/hoomd-blue)
